@@ -1,4 +1,4 @@
-# 📁 Blog Preview Card
+# 📂 Blog Preview Card
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1703155602/Challenges/cmab9xsatnq8m04w5ikl.jpg)
 
